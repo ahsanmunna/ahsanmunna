@@ -42,6 +42,14 @@
 <p>
   <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white"/>
   <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Spring Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white"/>
+</p>
+
+### 🎨 Frontend
+<p>
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
 </p>
 
 ### ⚙️ Tools & Databases
@@ -55,9 +63,29 @@
 
 ## 🚀 My Projects
 
-> 💡 Coming soon! Stay tuned! 🔥
+> 💡 Click on any project to explore it!
 
 <table>
+  <tr>
+<td width="50%">
+  <h3>🎓 CGPA Calculator BD</h3>
+  <p>A free, privacy-friendly GPA and CGPA calculator for Bangladeshi university students. No sign-up, no tracking, no ads — runs entirely in the browser.</p>
+  <p>
+    <img src="https://img.shields.io/badge/Status-Live-brightgreen?style=flat-square"/>
+    <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white"/>
+    <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"/>
+    <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white"/>
+  </p>
+  <a href="https://github.com/ahsanmunna/cgpa-calculator-bd">📂 View Repository</a> · <a href="https://ahsanmunna.github.io/cgpa-calculator-bd">🌐 Live Demo</a>
+</td>
+    <td width="50%">
+      <h3>🔹 Coming Soon</h3>
+      <p>Working on something exciting! Stay tuned.</p>
+      <p>
+        <img src="https://img.shields.io/badge/Status-Coming Soon-lightgrey?style=flat-square"/>
+      </p>
+    </td>
+  </tr>
   <tr>
     <td width="50%">
       <h3>🔹 Coming Soon</h3>
