@@ -30,7 +30,7 @@
 ## `$ whoami`
 
 ```python
-ahsan = {
+munna = {
     "focus"     : ["Backend Engineering", "ML Pipelines", "Full Stack"],
     "cares_about": ["Clean Architecture", "Code that does what it says"],
     "philosophy" : "Build systems other systems can depend on.",
